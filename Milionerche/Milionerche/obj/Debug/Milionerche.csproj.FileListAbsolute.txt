@@ -1,0 +1,11 @@
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\bin\Debug\Milionerche.exe.config
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\bin\Debug\Milionerche.exe
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\bin\Debug\Milionerche.pdb
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.Form1.resources
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.Properties.Resources.resources
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.GenerateResource.cache
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.exe
+C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.pdb

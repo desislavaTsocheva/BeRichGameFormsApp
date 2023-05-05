@@ -9,3 +9,18 @@ C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Mil
 C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.CoreCompileInputs.cache
 C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.exe
 C:\Users\viole\OneDrive\Работен плот\SoftuerDevelopment\Data Base\Milionerche\Milionerche\obj\Debug\Milionerche.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\Questions.mdf
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\Questions_log.ldf
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\Milionerche.exe.config
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\Milionerche.exe
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\Milionerche.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.Form1.resources
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.exe
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\obj\Debug\Milionerche.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\QuestionsForGame.mdf
+C:\Users\STUDENTS-STEM-9\Desktop\BecomeRichGame-main\Milionerche\Milionerche\bin\Debug\QuestionsForGame_log.ldf
